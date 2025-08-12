@@ -1,0 +1,8 @@
+# Python virtual environment
+venv/
+
+# Folder for partial work
+partial_work/
+
+# Pytest cache folder
+.pytest_cache/
